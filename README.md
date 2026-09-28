@@ -17,7 +17,7 @@ This repository contains the code and data for a study measuring linguistic comp
 
 - `analysis_notebook.ipynb` — Full analysis pipeline including data preprocessing, feature extraction, annotation analysis, classification (Random Forest, SVM, Logistic Regression), and visualisations
 - `Master_Annotation_File.csv` — Annotated corpus of 348 paragraphs with complexity labels (1-3), tier, theme, and source metadata
-- `jargon_dictionary.csv` — Custom welfare jargon dictionary compiled from welfare legislation, Citizens Advice and CPAG glossaries, and domain-specific terms identified during annotation
+
 
 ## Method Summary
 
